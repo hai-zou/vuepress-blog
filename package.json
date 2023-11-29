@@ -1,0 +1,20 @@
+{
+    "name": "vuepress-blog",
+    "version": "0.1.0",
+    "description": "a vuepress blog",
+    "main": "index.js",
+    "authors": {
+        "name": "haizou",
+        "email": "zou.hai@outlook.com"
+    },
+    "scripts": {
+        "dev": "vuepress dev blog --no-clear-screen",
+        "build": "vuepress build blog"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@vuepress/plugin-google-analytics": "^1.7.1",
+        "@vuepress/theme-blog": "^2.3.2",
+        "vuepress": "^1.7.1"
+    }
+}
