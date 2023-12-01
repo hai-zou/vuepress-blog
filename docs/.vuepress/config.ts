@@ -26,33 +26,33 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 			link: 'https://github.com/hai-zou',
 		},
 		blogger: {
-			avatar: 'https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-			name: 'Hai',
+			avatar: 'https://luckyzh.cn/avatar.jpg',
+			name: 'haizou',
 			slogan: '学无止境！',
 		},
 		social: {
 			icons: [
-			{
-				iconClass: 'icon-youjian',
-				title: '发邮件',
-				link: 'mailto:894072666@qq.com',
-			},
-			{
-				iconClass: 'icon-github',
-				title: 'GitHub',
-				link: 'https://github.com/xugaoyi',
-			},
-			{
-				iconClass: 'icon-erji',
-				title: '听音乐',
-				link: 'https://music.163.com/#/playlist?id=755597173',
-			},
+				{
+					iconClass: 'icon-youjian',
+					title: '发邮件',
+					link: 'mailto:zou.hai@outlook.com',
+				},
+				{
+					iconClass: 'icon-github',
+					title: 'GitHub',
+					link: 'https://github.com/hai-zou',
+				},
+				{
+					iconClass: 'icon-rss',
+					title: 'RSS',
+					link: 'https://luckyzh.cn/rss.xml',
+				},
 			],
 		},
 		footer: {
-			createYear: 2023,
+			createYear: 2021,
 			copyrightInfo:
-			'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>',
+			'Haizou | <a href="https://github.com/hai-zou/vuepress-blog/blob/main/LICENSE" target="_blank">MIT License</a>',
 		},
 	},
 	plugins: <UserPlugins>[
@@ -101,7 +101,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 			'@vuepress/last-updated',
 			{
 				transformer: (timestamp, lang) => {
-					return dayjs(timestamp).format('YYYY/MM/DD, HH:mm:ss')
+					return dayjs(timestamp).format('YYYY-MM-DD HH:mm:ss')
 				},
 			},
 		],
