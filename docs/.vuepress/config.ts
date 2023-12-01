@@ -8,10 +8,11 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 	description: "生活不止眼前的苟且！",
 	themeConfig: {
 		nav: [
-			{ text: '随笔', link: '/pages/00f539/' },
+			{ text: '随笔', link: '/pages/f863d0/' },
 			{ text: '归档', link: '/archives/' },
-			{ text: '留言', link: '/pages/d3d97d/' },
-			{ text: '关于', link: '/pages/e60ff2/' },
+			{ text: '友链', link: '/friends/' },
+			{ text: '留言', link: '/messages/' },
+			{ text: '关于', link: '/about/' },
 		],
 		sidebarDepth: 2,
 		repo: 'hai-zou/vuepress-blog',

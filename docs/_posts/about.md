@@ -2,15 +2,13 @@
 title: 关于
 article: false
 date: 2023-11-29 23:24:39
-permalink: /pages/e60ff2/
-sidebar: auto
+permalink: /about/
+sidebar: false
 ---
 
 ## 关于博主
 
-::: info
-Hello，大家好！
-
+::: tip Hello，大家好！
 我目前在深圳的一家互联网公司从事 Web 前端开发的工作，从毕业到现在两年时间。
 这两年来也进步不少，但大多数都是在工作中学到的，因为下班后根本没有精力再去学习。
 我就像井里的一只青蛙，我所能看到的就只有公司这一小片天空，我渴望见到外面的世界，但心有余而力不足。
@@ -25,16 +23,9 @@ Hello，大家好！
 - 喜欢书法，写字能让自己的内心更加的平静
 - 喜欢打游戏，下班之后打打游戏，让工作中的压力都得到释放
 
-### 联系方式
-
-- 邮箱 - <zou.hai@outlook.com>
-- GitHub - <https://github.com/hai-zou>
-
 ## 关于本站
 
-::: info
-陆陆续续换过几款博客，但是都不是很满意。为什么选择搭建静态博客？
-
+::: note 为什么选择搭建静态博客？
 - 速度和性能优化：静态博客生成的网页是纯静态的 HTML、CSS 和 JavaScript 文件，无需在每次访问时动态生成页面内容。这意味着加载速度更快，响应时间更短，提供更好的用户体验。
 - 安全性和可靠性：静态博客不需要服务器端代码和数据库，减少了潜在的安全漏洞和攻击风险。由于没有后端逻辑，静态博客更加稳定和可靠，不容易受到恶意行为或大流量的影响。
 - 易于部署和管理：由于静态博客只是一组静态文件，部署非常简单。你可以将静态文件托管在任何适合的服务器上，甚至可以使用免费的静态网页托管平台（如 GitHub Pages、Vercel、Netlify 等）。此外，静态博客通常使用简单的文件结构和版本控制工具（如 Git），使得博客的管理和维护更加容易。
@@ -43,22 +34,6 @@ Hello，大家好！
 
 对于本站有什么问题的话，欢迎给我留言！
 :::
-
-### UI 风格
-
-- 本站是借鉴 [胡涂说](https://hutusi.com/) 的 UI，采用极简风格。
-- 选择极简风格主题的博客，让自己更专注于文章的质量，不去管那些花哨的功能。
-
-### 技术
-
-- [Vitepress](https://vitepress.dev/) — 极速的服务启动, 轻量快速的热重载
-- [Vercel](https://vercel.com/) — 静态站点托管平台，支持站点分析
-- [Algolia DocSearch](/article/vue/algolia.html) — 搜索服务
-- [Giscus](/article/github/giscus.html) — GitHub 的评论插件
-- [Fancybox](/article/other/image-zoom.html) — 图片放大
-- [lazysizes](/article/other/image-lazy.html) — 图片懒加载
-- [tinyletter](https://app.tinyletter.com/) — 邮件订阅
-- [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) — 字体
 
 ## 站点历史
 
