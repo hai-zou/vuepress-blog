@@ -20,6 +20,8 @@ tags:
 
 ![跨域报错](/images/video-track-cors_1.webp)
 
+<!-- more -->
+
 ## 问题分析
 
 ```html

@@ -19,6 +19,8 @@ SVG 虽然也能在网站中直接使用，但是它如果要修改大小或者�
 网上有许多 SVG 转 Font 的方式，这里介绍一种 js 库 [svgtofont](https://github.com/jaywcjlove/svgtofont)，
 用脚本的方式转换，方便快捷！
 
+<!-- more -->
+
 ## 准备工作
 
 准备 SVG 文件，推荐使用 [阿里巴巴矢量图标库](https://www.iconfont.cn/)，可以免费下载各种 SVG 文件。

@@ -14,6 +14,8 @@ tags:
 
 ![Contributions](/images/github-contribute_1.webp)
 
+<!-- more -->
+
 ## 如何解决？
 
 **修改已提交的 Commit 信息中的作者信息**

@@ -13,6 +13,8 @@ tags:
 Giscus 是一个基于 GitHub Discussion 的评论系统。
 仓库中的 `Discussions` 便是存放评论的地方。
 
+<!-- more -->
+
 ## 准备
 
 1. 新建一个公开的仓库

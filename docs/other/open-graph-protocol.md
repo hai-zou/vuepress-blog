@@ -12,9 +12,9 @@ tags:
 
 当今互联网时代，社交媒体成为了人们分享信息和互动的主要平台之一。为了优化网站在社交媒体上的展示，提高网站内容的可分享性和可访问性，开放图谱协议（The Open Graph Protocol）应运而生。
 
-<!-- more -->
-
 ![Open Graph Protocol](/images/open-graph-protocol_1.webp)
+
+<!-- more -->
 
 ## 什么是开放图谱协议？
 
@@ -41,7 +41,7 @@ tags:
 这只是开放图谱协议元素的基础。您还可以添加其他元素，如`og:locale`用于指定语言、`og:video`用于嵌入视频等。
 参考：[The Open Graph protocol](https://ogp.me/)
 
-在社交媒体上分享链接后的展示效果：
+在社交媒体上分享链接后的展示效果：  
 ![效果图](/images/open-graph-protocol_2.webp)
 
 ## 结语

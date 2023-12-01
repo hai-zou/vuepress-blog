@@ -14,6 +14,8 @@ tags:
 
 [lazysizes](https://github.com/aFarkas/lazysizes) 让该技术成为非常简单的实现策略。
 
+<!-- more -->
+
 ## 在项目中使用 lazysizes
 
 1. 安装

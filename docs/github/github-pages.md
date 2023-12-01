@@ -14,6 +14,8 @@ GitHub Pages 是一项静态站点托管服务，它直接从 GitHub 上的仓�
 
 本文最终效果是搭建出一个域名为 `https://<user>.github.io` 的网站
 
+<!-- more -->
+
 ## 创建 GitHub Pages 站点仓库
 
 1. 输入仓库名称，必须命名为 `<user>.github.io`，`<user>`是你的用户名

@@ -13,6 +13,8 @@ tags:
 nrm 是一个 Node.js 的 npm registry 管理工具，它允许你在不同的 npm registry 之间切换，方便你在不同的网络环境下使用 npm。
 下面是 nrm 的安装和使用方法：
 
+<!-- more -->
+
 ## 安装 nrm
 
 在终端中执行以下命令来全局安装 nrm：

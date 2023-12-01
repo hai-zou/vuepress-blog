@@ -14,6 +14,8 @@ tags:
 
 默认情况下，VSCode 在不同操作系统上使用适当的换行符格式。例如，在 Windows 上，默认使用 CRLF 格式，而在 macOS 和 Linux 上，默认使用 LF 格式。
 
+<!-- more -->
+
 ## core.autocrlf
 
 `core.autocrlf` 是 Git 的配置选项之一，是否自动转换换行符。该配置有以下三种取值：

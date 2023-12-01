@@ -15,6 +15,8 @@ tags:
 
 ![](/images/image-zoom_1.webp)
 
+<!-- more -->
+
 ## 安装
 
 ```bash
